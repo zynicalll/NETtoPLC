@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/NetToPlc.Core/NetToPlc.Core.csproj" />
+  <Project Path="src/NetToPlc.PlcSim/NetToPlc.PlcSim.csproj" />
+  <Project Path="src/NetToPlc.App/NetToPlc.App.csproj" />
+  <Project Path="tests/NetToPlc.SmokeTests/NetToPlc.SmokeTests.csproj" />
+</Solution>

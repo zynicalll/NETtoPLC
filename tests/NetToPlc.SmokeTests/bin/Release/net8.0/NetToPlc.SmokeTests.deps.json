@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NetToPlc.SmokeTests/1.0.0": {
+        "dependencies": {
+          "NetToPlc.Core": "1.0.0"
+        },
+        "runtime": {
+          "NetToPlc.SmokeTests.dll": {}
+        }
+      },
+      "NetToPlc.Core/1.0.0": {
+        "runtime": {
+          "NetToPlc.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetToPlc.SmokeTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetToPlc.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
