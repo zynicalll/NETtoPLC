@@ -1,2 +1,4 @@
 # NETtoPLC
-NETtoPLC
+FIRST open the TIA v15/16/17/18/19/20/21
+SECOND open the NetToPLC
+THIRD open the PLCSIM
